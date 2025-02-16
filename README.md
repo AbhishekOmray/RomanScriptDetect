@@ -16,7 +16,7 @@ RomanScriptDetect is easy to install and set up. Follow the steps below to get s
 
 ### Clone the Repository:
 ```sh
-git clone https://github.com/yourusername/RomanScriptDetect.git
+git clone https://github.com/AbhishekOmray/RomanScriptDetect.git
 ```
 
 ### Navigate to the Project Directory:
